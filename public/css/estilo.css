@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(255, 251, 241);
+    align-content: center;
+}
+
+#tituloWeb{
+    width: 100%;
+    padding-top: 0px;
+    height: 40px;
+    position: fixed;
+    background-color: gray;
+    text-align: center;
+    color: honeydew;
+    text-decoration: none;
+}
